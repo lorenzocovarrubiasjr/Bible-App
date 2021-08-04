@@ -1,0 +1,13 @@
+.icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: gray;
+  font-size: 12px;
+  padding: 0 12px;
+}
+
+.icon-container:hover {
+  transform: scale(1.1);
+  transition: 0.2s;
+}
